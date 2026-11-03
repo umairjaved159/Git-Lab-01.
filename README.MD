@@ -8,3 +8,4 @@ This project demonstrates basic Git and GitHub operations.
 - Commit changes
 - Push code to GitHub
 - Create and merge branches
+Updated directly through the GitHub website.
